@@ -1,4 +1,4 @@
 # desafio-repositorio
-desafio de projeto de git/github
-  #Inicio
+## desafio de projeto de git/github
+  *Inicio*
   
